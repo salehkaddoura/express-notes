@@ -1,0 +1,9 @@
+{
+	"name": "express-notes",
+	"version": "0.0.1",
+	"description": "Express Tutorial",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.10.4"
+	}
+}
